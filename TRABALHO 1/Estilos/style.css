@@ -1,0 +1,118 @@
+/* { } */
+body{
+    background-color: darkred;
+    color: white;
+}
+.titulo{
+    background-color: rgb(82, 1, 1);
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 50px;
+    left: 0;
+}
+.topo{
+    text-align: center;
+    color: white;
+}
+.logofia{
+    position: absolute;
+    left: 10px;
+    top: 52px;
+}
+
+.logof1{
+    position: absolute;
+    right: 10px;
+    top: 72px;
+}
+
+.equipes{
+    height: 100;
+    text-align: center;
+}
+
+.relacaodeequipes{
+    width: 50px;    
+}
+.ladoalado{
+    display: flex;
+}
+.letrascentralizadas{
+    text-align: center;
+}
+.tabelas{
+    background-color: rgb(82, 1, 1);
+    margin: 0 auto;
+}
+.GP{
+    width: 55%;
+    height: 60%;
+    margin: 0 auto;
+}
+.fotoRBRmax{
+    position: absolute;
+    margin-left: 5px;
+    margin-top: 100px;
+    width: 20%;
+    height: 20%;
+}
+.legendaRBRmax{
+    font-size: 10px;
+    position: absolute;
+    margin-left: 12px;
+    margin-top: 240px;
+}
+.fotoRBRsergio{
+    position: absolute;
+    margin-left: 5px;
+    margin-top: 300px;
+    width: 20%;
+    height: 20%;
+}
+.legendaRBRsergio{
+    font-size: 10px;
+    position: absolute;
+    margin-left: 55px;
+    margin-top: 440px;
+}
+.fotoaston{
+    position: absolute;
+    margin-left: 5px;
+    margin-top: 500px;
+    width: 20%;
+    height: 20%;
+}
+.legendaaston{
+    font-size: 10px;
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 640px;
+}
+.patrocinadores{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    right: 20px;
+    top: 250px;
+    width: 10%;
+    height: 10%;
+}
+.rolex{
+    position: absolute;
+    right: 100px;
+    top: 200px;
+    width: 100px;
+}
+.heineken{
+    position: absolute;
+    right: 100px;
+    top: 450px;
+    width: 100px;
+}
+.petronas{
+    position: absolute;
+    right: 100px;
+    top: 650px;
+    width: 80px;
+}
